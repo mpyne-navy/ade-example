@@ -14,7 +14,7 @@ is supposed to do, that aren't really a "functional" need.
 ### Awesomeness
 
 1.  ADE should be:
-  1. super fast,
-  2. "Web scale",
-  3. cloud-enabled, and
-  4. 100% artisanally buzzword-compliant.
+    1. super fast,
+    2. "Web scale",
+    3. cloud-enabled, and
+    4. 100% artisanally buzzword-compliant.
