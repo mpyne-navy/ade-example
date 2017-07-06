@@ -403,9 +403,18 @@ clearance. PRT medical clearance requires:
         1. Periodic Health Assessment (PHA). A PHA is an annual
 requirement (reference (g)). Members who do not have a current
 PHA shall not participate in a PRT or physical conditioning.
+            1. Sailors requiring a deployment health assessment (DHA)
+must be within the periodicity of their deployment assessment
+(post-deployment health assessment (PDHA) or post-deployment
+health re-assessment (PDHRA) as appropriate) to participate in
+the PRT.
+            2. If a PFA (BCA and PRT) is not completed due to
+a delinquent PHA or DHA, the member's CO may assign them a
+"UA" status in PRIMS for the missed PFA.
         2. NAVPERS 6110/3. All personnel shall complete a
 NAVPERS 6110/3 via PRIMS as soon as possible following the PFA
-notification.
+notification.  However the NAVPERS 6110/3 is not required if
+the PRT will not be performed (e.g. DEP/OP, IA, TAD, etc.).
         3. Pre-physical activity questions. The CFL shall
 ensure every member is asked the questions prior to
 participating in the PRT (see paragraph 8).
@@ -440,7 +449,8 @@ does not count as a failure or pass for the PFA and will not be
 used to count towards such for administrative, promotion, or
 retention purposes. In all cases, the Service member’s CO is
 the final authority for granting all PFA medical waivers, and
-all medical waivers shall be recorded in PRIMS and will be filed
+all medical waivers shall be approved prior to the BCA,
+recorded in PRIMS, and will be filed
 in the member’s medical record consistent with the paragraphs
 below:
         1. BCA Medical Waivers. Members must address potential
@@ -596,7 +606,7 @@ every member even if the PRT component of the PFA is “DEP/OP.”
 Command-wide “DEP/OP” for BCA must be approved by the ISIC (for
 individual exemptions, refer to paragraph 6).
     8. BCA Scheduling Requirements for AC. The BCA shall be
-completed within 10 days of, but not less than 24 hours, prior
+completed within 45 days of, but not less than 24 hours, prior
 to participation in the PRT.
     9. BCA Scheduling Requirements for Drilling Reservists.
 Drilling Reservists shall strive to comply with the BCA
