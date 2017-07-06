@@ -5,6 +5,7 @@
 1.  ADE should definitely do the thing.
 2.  ADE should do the one thing, but not the other thing.
 3.  ADE must comply with applicable laws/regulations/policys (LRPs) for all the things.
+4.  ADE SHALL provide an Enterprise Functional Widget Factory (EFWF).
 
 ## Informative
 
