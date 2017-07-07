@@ -359,8 +359,6 @@ failure.
 count as a PFA failure (the BCA must still be performed and
 recorded).  Sailors who fail the BCA during Cycle 2 2015 will be
 enrolled in the FEP and provided nutritional counseling.
-    2. To ensure safety during the PFA process, members that fail the BCA or
-who are medically waived from the BCA shall not participate in the PRT.
 2. CO Authority. The CO has authority over the schedule,
 conduct, safety, and medical waivers for the PFA.
     1. The Physical Readiness Program requires the completion
@@ -421,6 +419,9 @@ the PRT will not be performed (e.g. DEP/OP, IA, TAD, etc.).
         3. Pre-physical activity questions. The CFL shall
 ensure every member is asked the questions prior to
 participating in the PRT (see paragraph 8).
+        4. Failing the BCA does not result in loss of medical
+clearance. Sailors will participate in the PRT if medically
+cleared to do so (see paragraph 5), unless otherwise exempted.
 5. Medical Clearance. Members who respond “yes” to one or more
 of the pre-physical activity questions (except question one)
 shall be referred to the AMDR for medical clearance. PFA medical
@@ -630,8 +631,8 @@ above in all events.
     1. Administration. The PRT shall only be administered by
 designated and certified CFLs and trained ACFLs. All personnel
 participating in the PRT shall wear Navy PTU.
-    2. Participation. Member is medically cleared to
-participate in the PRT and the BCA is passed.
+    2. Participation. The member must be medically cleared to
+participate in the PRT.
     3. Alternate Cardio Events. The swim, elliptical and bike
 are alternate cardio events. Participation in an alternative
 cardio-respiratory event is not an entitlement. The
