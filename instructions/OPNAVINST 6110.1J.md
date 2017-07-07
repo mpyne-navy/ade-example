@@ -355,9 +355,12 @@ the CO to include the regular and make-up dates for PFA
 components.
     1. Failing the BCA portion of the PFA is an overall PFA
 failure.
-    2. To ensure safety during the PFA process, members that
-fail the BCA or who are medically waived from the BCA shall not
-participate in the PRT.
+        1. Note: For the Cycle 2 2015 **ONLY**, a BCA failure will not
+count as a PFA failure (the BCA must still be performed and
+recorded).  Sailors who fail the BCA during Cycle 2 2015 will be
+enrolled in the FEP and provided nutritional counseling.
+    2. To ensure safety during the PFA process, members that fail the BCA or
+who are medically waived from the BCA shall not participate in the PRT.
 2. CO Authority. The CO has authority over the schedule,
 conduct, safety, and medical waivers for the PFA.
     1. The Physical Readiness Program requires the completion
