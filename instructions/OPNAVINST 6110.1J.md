@@ -569,21 +569,37 @@ permanent changes of station orders).
 standards) when a member is within established Navy body
 composition assessment standards.
     1. BCA Standards. Navy body composition standards are
-determined by established maximum weight for height standards
-(enclosure (3)). If an individual exceeds the weight for height
-screen, the circumference technique shall be used per the
-Operating Guide to determine body fat percentage. Individuals
-who are within standards via the height and weight measurement
-are exempt from the circumference calculation procedure.
-    2. PRIMS is the official source to determine the percent
-fat estimation for men and women. The BCA tables contained in
-the Physical Readiness Program Operating Guide may be used as an
-on-site reference. The maximum allowable Navy body fat limits
-are:
-        - Male (age 17-39): 22%
-        - Male (age 40+): 23%
-        - Female (age 17-39): 33%
-        - Female (age 40+): 34%
+determined by a three step process.
+        1. Apply the maximum weight for height standards in
+enclosure (3). If an individual is within the maximum weight
+for their height, they have passed the BCA and the remaining steps
+are skipped.
+        2. Apply a single-site abdominal circumference measurement,
+to screen for individuals at increased risk of health problems such
+as diabetes, heart disease, or cancer.  If an individual's abdominal
+circumference measurement is less than or equal to
+39.0 inches (for males) or 35.5 inches (for females), they have
+passed the BCA and the remaining step is skipped.
+        3. Otherwise, the body circumference technique shall be used per the
+Operating Guide to determine body fat percentage. PRIMS is the official
+source to determine the percent fat estimate for members.
+The BCA tables contained in the Operating Guide may be used as an
+on-site reference. Individuals within the Department of Defense (DoD)
+maximum of less than or equal to 26 percent body fat (for males) or
+36 percent body fat (for females) have passed the BCA.  Members whose
+BCA is performed using this technique will be enrolled in FEP even if
+passing the BCA, unless their body fat percentage is within the
+following maximum allowable Navy body fat limits:
+        - Male (age 17-21): 22%
+        - Male (age 22-29): 23%
+        - Male (age 30-39): 24%
+        - Male (age 40+): 26%
+        - Female (age 17-21): 33%
+        - Female (age 22-29): 34%
+        - Female (age 30-39): 35%
+        - Female (age 40+): 36%
+    2. Sailors who fail the BCA shall be evaluated by a medical provider, enrolled
+in FEP, and provided nutritional counseling.
     3. COs and officers in charge should specify the required
 uniform - uniform of the day or Navy physical training uniform that will be worn during official and unofficial height and
 weight screening and circumference measurements.
@@ -778,10 +794,13 @@ of at least one NAVPERS 1070/613.
 officers a LON within 30 days following the completion of the
 command PFA cycle.
     3. Assignment to FEP. FEP is mandatory for any member who
-fails any portion of the PFA, or when assigned by the CO.
-Participation in FEP shall continue until the member passes the
-next regularly scheduled command PFA and scores “good” or better
-in all PRT components
+fails any portion of the PFA, or when assigned by the CO. All
+Sailors in FEP will participate in a mock PFA every 30 days.
+Failures incurred during a mock PFA will not count as official
+failures. Participation in FEP shall continue until the member
+passes the PRT and is within BCA standards. Members assigned
+to FEP due to BCA failure shall also be enrolled in nutritional
+counseling.
     4. Fitness Reports and Performance Evaluations. PFA
 failures shall be reported in fitness reports and performance
 evaluations as directed by reference (d).
