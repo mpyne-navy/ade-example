@@ -379,6 +379,10 @@ retest on the PRT portion of the PFA (see enclosure (5)).
 determine whether non-participation was authorized or
 unauthorized. All unauthorized non-participation shall be
 designated as “UA” in PRIMS and scored a PFA failure.
+    7. COs will conduct PFA spot checks. BCA and PRT failures
+incurred during a spot check are not counted when determining
+whether processing for ADSEP is required, but may result in FEP
+enrollment at the CO's discretion.
 3. PFA Notification. The command shall provide a notification
 at least 10 weeks in advance of scheduled PFA dates. This
 notification is intended for the preparations required by the
