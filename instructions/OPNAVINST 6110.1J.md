@@ -921,6 +921,30 @@ transferred (without transfer waiver), reenlisted, or extended.
         4. A waiver for readiness does not excuse an individual
 from participation in the PFA nor will it change existing data
 in PRIMS.
+    4. Policy Transition Guidance. 
+        1. Sailors subject to an approved or pending ADSEP,
+effective prior to 1 January 2016, are to be offered the
+opportunity to be retained.  Sailors who desire to separate
+will continue processing for ADSEP. These additional requirements
+apply to Sailors who desire to be retained:
+            1. These Sailors must notify their CO,
+be medically cleared to participate in the PRT, and pass a mock or
+official PFA prior to 1 December 2015.  Mock PFAs shall be recorded
+in PRIMS under the FEP tab for the Sailor.
+            2. A Sailor who does not meet BCA requirements must
+also be cleared by their medical provider to participate in the
+Cycle 2 2015 PRT.  Medical waivers will be handled as normal,
+including potential referral to a Medical Evaluation Board for
+recurring medical issues.
+            3. Sailors who failed the Cycle 1 2015 BCA will be
+enrolled in FEP, and participate in mock PFAs every 30 days.
+            4. Sailors who have not passed a mock or official PFA by
+1 December 2015, or who fails any portion of the official PRT
+during Cycle 2 2015, will be recorded as a PFA failure in PRIMS
+and continue to be processed for ADSEP.
+        2. Sailors who fail the Cycle 2 2015 PFA, and where that
+failure is their third in a 4-year period, will be processed for
+ADSEP.
 3. Retention Following an ADSEP Board. Individuals retained in
 the Navy following COMNAVPERSCOM approval of the ADSEP board
 recommendation are eligible to transfer to billets other than
