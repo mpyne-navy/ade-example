@@ -778,8 +778,7 @@ of at least one NAVPERS 1070/613.
 officers a LON within 30 days following the completion of the
 command PFA cycle.
     3. Assignment to FEP. FEP is mandatory for any member who
-fails any portion of the PFA and is available, at the discretion
-of the CO, to any member who desires to improve their fitness.
+fails any portion of the PFA, or when assigned by the CO.
 Participation in FEP shall continue until the member passes the
 next regularly scheduled command PFA and scores “good” or better
 in all PRT components
