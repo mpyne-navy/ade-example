@@ -104,9 +104,14 @@ of semi-annual testing.
 standards are a condition of continued naval service. Members
 with PFA failures will be subject to administrative actions.
 Members failing to meet BCA or PRT standards shall participate
-in an FEP. Members failing to meet PFA standards three times in
-the most recent 4-year period shall be processed for
-administrative separation (ADSEP) from the Navy.
+in an FEP. Members failing to meet PFA standards two times in
+the most recent 3-year period shall be processed for
+administrative separation (ADSEP) from the Navy.  The following
+conditions on ADSEP processing apply throughout this instruction:
+        1. A BCA failure in Cycle 2 2015 **ONLY** will not
+cause an overall PFA cycle failure.
+        2. All PFA cycle failures prior to 1 January 2016
+combined, will only count as a single combined PFA failure.
     4. Medical Waiver Management. Members with two consecutive
 medical waivers or three in a 4-year period shall be referred to
 the military treatment facility (MTF) for a medical evaluation
@@ -181,8 +186,8 @@ promotion, advancement, and reenlistment process.
 incorporated into personnel transfer and detailing decisions.
         3. NAVPERSCOM (PERS-8) and NAVPERSCOM, Reserve
 Personnel Matters (PERS-9) will manage ADSEP processing for all
-members who have three or more PFA failures in the most recent
-4-year period.
+members who have two or more PFA failures in the most recent
+3-year period.
         4. Evaluate PFA MEB findings for disposition.
     7.  Commander, Navy Reserve Forces Command shall: 
         1. Ensure all Drilling Reservists, including Voluntary
@@ -248,7 +253,7 @@ A sample can be found in PRIMS.
 into PRIMS within 30 days and all waivers are entered within 14
 days of the completion of the command PFA cycle.
         11. Initiate ADSEP processing within 14 days of the
-third or greater PFA failure in most recent 4-year period for
+second or greater PFA failure in most recent 3-year period for
 all individuals, per references (e) and (f), unless a waiver of
 readiness has been approved by the echelon 3 commander.
         12. Ensure compliance with reference (c) reporting
@@ -782,7 +787,7 @@ before the retest, or transfers to another assignment before the
 retest, the initial test score is to be entered into PRIMS as
 the official PFA.
     2. PFA Failure Notification. Documentation of written
-counseling provided any time prior to member acquiring third PFA
+counseling provided any time prior to member acquiring a second PFA
 failure is sufficient notice for all administrative actions
 specified in this instruction.
         1. Enlisted PFA Failure Notification. COs will provide
@@ -821,8 +826,8 @@ and Separation Branch (PERS-834). Members may regain
 eligibility by passing the next command directed PFA (i.e.,
 monthly FEP mock PFA) and notification shall again be made to
 NAVPERSCOM (PERS-834).
-    7. Reenlistment and Extension. AC members who have three
-or more PFA failures in the most recent 4-year period shall not
+    7. Reenlistment and Extension. AC members who have two
+or more PFA failures in the most recent 3-year period shall not
 be reenlisted or extended. Requests for exceptions to policy
 for active duty reenlistments or extensions shall be addressed
 to NAVPERSCOM, Active Enlisted Programs Branch (PERS-811), via
@@ -831,7 +836,7 @@ or extension policy for Reservists should be addressed to
 NAVPERSCOM, Reserve Enlisted Status Branch (PERS-913), via the
 chain of command.
     8. Transfers. AC and Full Time Support (FTS) personnel who
-have three or more PFA failures in the most recent 4-year period
+have two or more PFA failures in the most recent 3-year period
 shall not transfer to a new permanent duty station and will be
 retained onboard. This restriction also applies to those who
 have waivers for readiness.
@@ -876,17 +881,13 @@ extensions, and transfers.
 decisions affecting medical officers must be referred to BUMED,
 Total Force Directorate (M1) for review and approval.
 2. ADSEP. Mandatory separation processing shall occur for all
-members who fail three PFA cycles in the most recent 4-year
+members who fail two PFA cycles in the most recent 3-year
 period. Refer to reference (e) for enlisted and reference (f)
 for officer processing requirements.
     1. ADSEP for Over 18 Years of Service. Members with over
-18 years of service are not exempt from ADSEP. Members with a
-third PFA failure prior to 30 June 2011 and an approved fleet
-reserve and retirement date will be allowed to retire
-(grandfathered in). Those with a third failure subsequent to 30
-June 2011 will be processed for ADSEP.
-    2. RC Personnel. RC personnel who have three or more PFA
-failures in the most recent 4-year period shall not be
+18 years of service are not exempt from ADSEP.
+    2. RC Personnel. RC personnel who have two or more PFA
+failures in the most recent 3-year period shall not be
 transferred to the Inactive Ready Reserve in lieu of ADSEP
 processing:
         1. This restriction applies to Drilling Reservists and
@@ -911,8 +912,8 @@ a final determination on waiver approval.
         2. A waiver for readiness expires at either completion
 of obligated service, or at the completion of the next PFA cycle
 (whichever occurs first). If, upon waiver expiration, the
-member still has three or more PFA failures in the most recent
-4-year period, COs shall initiate ADSEP processing per
+member still has two or more PFA failures in the most recent
+3-year period, COs shall initiate ADSEP processing per
 references (e) and (f) or request renewal of the waiver for
 readiness.
         3. Individuals with waivers for readiness will not be
@@ -926,8 +927,8 @@ recommendation are eligible to transfer to billets other than
 those listed in paragraph 1h(d), however, the individuals will
 need a transfer waiver from NAVPERSCOM (PERS-4) prior to
 transfer. Individuals will be referred to an additional ADSEP
-board if they fail a subsequent PFA and still have three or more
-PFA failures in the most recent 4-year period.
+board if they fail a subsequent PFA and still have two or more
+PFA failures in the most recent 3-year period.
 
 # TABLE 1
 
